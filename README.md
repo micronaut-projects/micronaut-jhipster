@@ -11,9 +11,7 @@ Micronaut JHipster
 
 ## Documentation
 
-See the [Documentation](https://micronaut-projects.github.io/micronaut-jhipster/latest/guide/) for more information.
-
-See the [Snapshot Documentation](https://micronaut-projects.github.io/micronaut-jhipster/snapshot/guide/) for the current development docs.
+See the [Documentation](https://micronaut-projects.github.io/micronaut-jhipster/snapshot/) 
 
 <!-- ## Examples
 
