@@ -9,7 +9,7 @@ plugins {
     id 'io.micronaut.build.shared.settings' version '6.5.4'
 }
 
-rootProject.name = 'micronaut-upgrade-parent'
+rootProject.name = 'micronaut-jhipster-parent'
 
 enableFeaturePreview 'TYPESAFE_PROJECT_ACCESSORS'
 
