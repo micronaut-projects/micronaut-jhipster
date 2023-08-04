@@ -1,0 +1,9 @@
+= Micronaut JHipster
+:includedir: src/docs/asciidoc
+:sectnums!:
+
+== Micronaut JHipster
+
+https://micronaut.io/2021/04/19/jhipster-micronaut-blueprint-1-0-release/[JHIPSTER MICRONAUT BLUEPRINT 1.0 RELEASE Announcement]
+
+
